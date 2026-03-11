@@ -1,61 +1,27 @@
-<h1 align="center">Hi, I'm Alisha 👋</h1>
-<h3 align="center">🪴 Healthcare Roots | 🕊️ Tech Wings | From Biology → Binary</h3>
+# 💫 About Me:
+🚀 What I'm Working On<br>Foundation Building: Turning curiosity into clean code, one step at a time.<br><br>Micro-Projects: Developing small, functional coding projects to bridge the gap between theory and practice.<br><br>Digital Defense: Exploring the core concepts of Networking & Cyber Security.<br><br>📚 Current Learning Path<br>The Core: Mastering Python 🐍, C++ 💻, and SQL 🗄️ as my primary tools.<br><br>Logic & Structure: Deep diving into Data Structures & OOP to write efficient code.<br><br>Systems: Understanding how data flows through Networking Fundamentals.<br><br>💬 Ask Me About<br>The Transition: My unique shift from Pre-Medical to IT 🌱→💻.<br><br>Problem Solving: New approaches I discover while practicing daily.<br><br>Creative Logic: How I combine my medical analytical mind with programming.<br><br>🎨 Fun Fact<br>I treat coding like a lab experiment—curiosity driven and result oriented!<br><br>Rule of Life: Learning something new every single day. No shortcuts. 🚀
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alisha-usman-00b204330/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/AlishaUsman" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Alisha Usman) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alishaw.usman@gmail.com) 
 
-## 🌱 About Me
-<p align="center">
-  <i>“Exploring tech one step at a time”</i>
-</p>
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=AlishaUsman&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=AlishaUsman&theme=shadow_blue&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlishaUsman&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-- Data Science student transitioning from **Pre-Medical → Tech**  
-- Currently learning **Python, C++, SQL**  
-- Exploring **DSA, OOP, Networking & Cyber Security**  
-- Passionate about **problem solving & building my IT foundation**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=AlishaUsman&theme=shadow_blue&no-frame=false&no-bg=false&margin-w=4)
 
----
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-## 🛠️ Currently Learning
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,cpp,sql,git,github,vscode,linux"/>
-</p>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=AlishaUsman&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=AlishaUsman&icon=0&color=1)](https://visitcount.itsvg.in)
 
-## 🚀 My Journey So Far
-- Understanding **Python & C++ basics**  
-- Practicing **Data Structures & OOP concepts**  
-- Diving into **SQL, Networking & Cyber Security fundamentals**  
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AlishaUsman&show_icons=true&theme=radical"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AlishaUsman&theme=radical"/>
-</p>
-
----
-
-## 🌐 Connect With Me
-<p align="center">
-<a href="https://www.linkedin.com/in/alisha-usman-00b204330/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/AlishaUsman" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-</p>
-
----
-
-⭐ *Learning something new every day and building my tech foundation step by step.*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
