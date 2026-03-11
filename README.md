@@ -2,39 +2,39 @@
 <h3 align="center">🪴 Healthcare Roots | 🕊️ Tech Wings | From Biology → Binary</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alisha-usman-00b204330/">
-    <img src="https://img.shields.io/badge/LinkedIn-Alisha%20Usman-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/alisha-usman-00b204330/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/AlishaUsman">
-    <img src="https://img.shields.io/badge/GitHub-AlishaUsman-black?style=for-the-badge&logo=github"/>
+  <a href="https://github.com/AlishaUsman" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 💫 About Me
+## 🌱 About Me
 <p align="center">
-  <i>“Turning curiosity into code, step by step”</i>
+  <i>“Exploring tech one step at a time”</i>
 </p>
 
 - Data Science student transitioning from **Pre-Medical → Tech**  
-- Exploring **Python, C++ & DSA**  
-- Currently learning **SQL, Networking & Cyber Security**  
-- Passionate about **problem solving, coding & building projects**
+- Currently learning **Python, C++, SQL**  
+- Exploring **DSA, OOP, Networking & Cyber Security**  
+- Passionate about **problem solving & building my IT foundation**
 
 ---
 
-## 🛠️ Skills & Tools
+## 🛠️ Currently Learning
 <p align="center">
 <img src="https://skillicons.dev/icons?i=python,cpp,sql,git,github,vscode,linux"/>
 </p>
 
 ---
 
-## 🚀 My Journey
-- 🔹 Completed **OOP & Data Structures**  
-- 🔹 Practicing **Python & C++ projects**  
-- 🔹 Exploring **SQL, Networking & Security**  
+## 🚀 My Journey So Far
+- Understanding **Python & C++ basics**  
+- Practicing **Data Structures & OOP concepts**  
+- Diving into **SQL, Networking & Cyber Security fundamentals**  
 
 ---
 
@@ -48,14 +48,14 @@
 
 ## 🌐 Connect With Me
 <p align="center">
-<a href="https://www.linkedin.com/in/alisha-usman-00b204330/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/alisha-usman-00b204330/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="https://github.com/AlishaUsman">
-  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+<a href="https://github.com/AlishaUsman" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 ---
 
-⭐ *Learning every day and slowly building my tech universe*
+⭐ *Learning something new every day and building my tech foundation step by step.*
